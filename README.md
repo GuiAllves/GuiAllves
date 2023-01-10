@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando React e Java
+
 - 📫 contate-me no email: contato.guilhermealves156@gmail.com
 
 <div align="center">
